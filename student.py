@@ -4,6 +4,7 @@ from essay import Essay
 
 
 class Student(User):
+
     result = 0
 
     def type(self):
